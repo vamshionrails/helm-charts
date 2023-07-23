@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  helm-chart-test:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-07-23T13:22:09.6470741-05:00"
+    description: A Helm chart for Kubernetes
+    digest: 347046fb0760cae76742237da2d53d286fff7a6ca22c97fbdfddc9851a3382ac
+    name: helm-chart-test
+    type: application
+    urls:
+    - https://vamshionrails.github.io/helm-chart/helm-chart-test-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-07-23T13:22:09.6470741-05:00"
